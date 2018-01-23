@@ -22,3 +22,6 @@
 
 # Ignore my file
 for-later.txt
+
+# Ignore MAC ds_store files
+.DS_Store
